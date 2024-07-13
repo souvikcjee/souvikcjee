@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Souvik, Currently a research Scholar working in data analysis in Experimental High Energy Physics
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning GNN
-- 💞️ I’m looking to collaborate on AI
+- 👋 Hi, I’m Souvik, Currently  working on Machine Learning in Experimental High Energy Physics
+- 👀 I have done many projects with Census datasets and published them in reputed journals.
 - 📫 How to reach me: souvikcjee@gmail.com
   
 
