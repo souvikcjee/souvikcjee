@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Souvik, Currently  working on Machine Learning in Experimental High Energy Physics
-- 👀 I have done many projects with Census datasets and published them in reputed journals.
+- 👋 Hi, I’m Souvik, working on AI soulutions to real life problems.
+
 - 📫 How to reach me: souvikcjee@gmail.com
   
 
